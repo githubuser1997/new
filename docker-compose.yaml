@@ -1,0 +1,7 @@
+---
+services: 
+  tomcat:
+    image: tomee
+    ports: 
+      - "888:8080"
+  network_mode: bridge
