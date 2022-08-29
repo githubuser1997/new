@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1661748828,,"wq!"
 :q!
 |2,0,1657642442,,"q!"
-:wq!
-|2,0,1657640403,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -27,28 +27,72 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.docker/config.json
-|4,48,1,0,1657642442,"~/.docker/config.json"
-'1  7  20  ~/docker_compose.yaml
-|4,49,7,20,1657640403,"~/docker_compose.yaml"
-'2  7  20  ~/docker_compose.yaml
-|4,50,7,20,1657638896,"~/docker_compose.yaml"
-'3  30  155  ~/docker_compose.yaml
-|4,51,30,155,1657638656,"~/docker_compose.yaml"
-'4  31  155  ~/docker_compose.yaml
-|4,52,31,155,1657638656,"~/docker_compose.yaml"
-'5  30  155  ~/docker_compose.yaml
-|4,53,30,155,1657638656,"~/docker_compose.yaml"
-'6  31  155  ~/docker_compose.yaml
-|4,54,31,155,1657638656,"~/docker_compose.yaml"
-'7  30  0  ~/docker_compose.yaml
-|4,55,30,0,1657634636,"~/docker_compose.yaml"
-'8  31  0  ~/docker_compose.yaml
-|4,56,31,0,1657634636,"~/docker_compose.yaml"
-'9  30  0  ~/docker_compose.yaml
-|4,57,30,0,1657634636,"~/docker_compose.yaml"
+'0  1  2  ~/123
+|4,48,1,2,1661748828,"~/123"
+'1  1  365  ~/nwefolder/f001
+|4,49,1,365,1661746064,"~/nwefolder/f001"
+'2  124  0  ~/nwefolder/f001
+|4,50,124,0,1661745610,"~/nwefolder/f001"
+'3  124  0  ~/nwefolder/f001
+|4,51,124,0,1661745610,"~/nwefolder/f001"
+'4  1  368  ~/nwefolder/f001
+|4,52,1,368,1661745163,"~/nwefolder/f001"
+'5  1  0  ~/.docker/config.json
+|4,53,1,0,1657642442,"~/.docker/config.json"
+'6  7  20  ~/docker_compose.yaml
+|4,54,7,20,1657640403,"~/docker_compose.yaml"
+'7  7  20  ~/docker_compose.yaml
+|4,55,7,20,1657638896,"~/docker_compose.yaml"
+'8  30  155  ~/docker_compose.yaml
+|4,56,30,155,1657638656,"~/docker_compose.yaml"
+'9  31  155  ~/docker_compose.yaml
+|4,57,31,155,1657638656,"~/docker_compose.yaml"
 
 # Jumplist (newest first):
+-'  1  2  ~/123
+|4,39,1,2,1661748828,"~/123"
+-'  1  365  ~/nwefolder/f001
+|4,39,1,365,1661746064,"~/nwefolder/f001"
+-'  1  365  ~/nwefolder/f001
+|4,39,1,365,1661746064,"~/nwefolder/f001"
+-'  124  0  ~/nwefolder/f001
+|4,39,124,0,1661745610,"~/nwefolder/f001"
+-'  124  0  ~/nwefolder/f001
+|4,39,124,0,1661745610,"~/nwefolder/f001"
+-'  124  0  ~/nwefolder/f001
+|4,39,124,0,1661745610,"~/nwefolder/f001"
+-'  124  0  ~/nwefolder/f001
+|4,39,124,0,1661745610,"~/nwefolder/f001"
+-'  1  368  ~/nwefolder/f001
+|4,39,1,368,1661745163,"~/nwefolder/f001"
+-'  1  368  ~/nwefolder/f001
+|4,39,1,368,1661745163,"~/nwefolder/f001"
+-'  1  0  ~/nwefolder/f001
+|4,39,1,0,1661745075,"~/nwefolder/f001"
+-'  1  0  ~/nwefolder/f001
+|4,39,1,0,1661745075,"~/nwefolder/f001"
+-'  1  0  ~/.docker/config.json
+|4,39,1,0,1657642442,"~/.docker/config.json"
+-'  1  0  ~/.docker/config.json
+|4,39,1,0,1657642442,"~/.docker/config.json"
+-'  1  0  ~/.docker/config.json
+|4,39,1,0,1657642442,"~/.docker/config.json"
+-'  1  0  ~/.docker/config.json
+|4,39,1,0,1657642442,"~/.docker/config.json"
+-'  1  0  ~/.docker/config.json
+|4,39,1,0,1657642442,"~/.docker/config.json"
+-'  1  0  ~/.docker/config.json
+|4,39,1,0,1657642442,"~/.docker/config.json"
+-'  1  0  ~/.docker/config.json
+|4,39,1,0,1657642442,"~/.docker/config.json"
+-'  1  0  ~/.docker/config.json
+|4,39,1,0,1657642442,"~/.docker/config.json"
+-'  1  0  ~/.docker/config.json
+|4,39,1,0,1657642442,"~/.docker/config.json"
+-'  1  0  ~/.docker/config.json
+|4,39,1,0,1657642442,"~/.docker/config.json"
+-'  1  0  ~/.docker/config.json
+|4,39,1,0,1657642442,"~/.docker/config.json"
 -'  1  0  ~/.docker/config.json
 |4,39,1,0,1657642442,"~/.docker/config.json"
 -'  7  20  ~/docker_compose.yaml
@@ -56,6 +100,94 @@
 -'  7  20  ~/docker_compose.yaml
 |4,39,7,20,1657640403,"~/docker_compose.yaml"
 -'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657640403,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
+|4,39,7,20,1657638896,"~/docker_compose.yaml"
+-'  7  20  ~/docker_compose.yaml
 |4,39,7,20,1657638896,"~/docker_compose.yaml"
 -'  7  20  ~/docker_compose.yaml
 |4,39,7,20,1657638896,"~/docker_compose.yaml"
@@ -67,190 +199,73 @@
 |4,39,1,0,1657638682,"~/docker_compose.yaml"
 -'  1  0  ~/docker_compose.yaml
 |4,39,1,0,1657638682,"~/docker_compose.yaml"
--'  30  155  ~/docker_compose.yaml
-|4,39,30,155,1657638656,"~/docker_compose.yaml"
--'  31  155  ~/docker_compose.yaml
-|4,39,31,155,1657638656,"~/docker_compose.yaml"
--'  30  155  ~/docker_compose.yaml
-|4,39,30,155,1657638656,"~/docker_compose.yaml"
--'  31  155  ~/docker_compose.yaml
-|4,39,31,155,1657638656,"~/docker_compose.yaml"
--'  30  155  ~/docker_compose.yaml
-|4,39,30,155,1657638656,"~/docker_compose.yaml"
--'  31  155  ~/docker_compose.yaml
-|4,39,31,155,1657638656,"~/docker_compose.yaml"
--'  30  155  ~/docker_compose.yaml
-|4,39,30,155,1657638656,"~/docker_compose.yaml"
--'  31  155  ~/docker_compose.yaml
-|4,39,31,155,1657638656,"~/docker_compose.yaml"
 -'  1  0  ~/docker_compose.yaml
-|4,39,1,0,1657638590,"~/docker_compose.yaml"
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
 -'  1  0  ~/docker_compose.yaml
-|4,39,1,0,1657638590,"~/docker_compose.yaml"
--'  31  0  ~/docker_compose.yaml
-|4,39,31,0,1657634636,"~/docker_compose.yaml"
--'  31  0  ~/docker_compose.yaml
-|4,39,31,0,1657634636,"~/docker_compose.yaml"
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
 -'  1  0  ~/docker_compose.yaml
-|4,39,1,0,1657633779,"~/docker_compose.yaml"
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
 -'  1  0  ~/docker_compose.yaml
-|4,39,1,0,1657633779,"~/docker_compose.yaml"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  2  27  ~/Dockerfile
-|4,39,2,27,1657623800,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1657623651,"~/Dockerfile"
--'  1  0  ~/tomcat_user.xml
-|4,39,1,0,1657623547,"~/tomcat_user.xml"
--'  1  0  ~/tomcat_user.xml
-|4,39,1,0,1657623547,"~/tomcat_user.xml"
--'  1  0  ~/tomcat_user.xml
-|4,39,1,0,1657623547,"~/tomcat_user.xml"
--'  1  0  ~/tomcat_user.xml
-|4,39,1,0,1657623547,"~/tomcat_user.xml"
--'  1  0  ~/tomcat_user.xml
-|4,39,1,0,1657623547,"~/tomcat_user.xml"
--'  1  0  ~/tomcat_user.xml
-|4,39,1,0,1657623547,"~/tomcat_user.xml"
--'  1  0  ~/tomcat_user.xml
-|4,39,1,0,1657623547,"~/tomcat_user.xml"
--'  1  0  ~/tomcat_user.xml
-|4,39,1,0,1657623547,"~/tomcat_user.xml"
--'  1  0  ~/tomcat_user.xml
-|4,39,1,0,1657623547,"~/tomcat_user.xml"
--'  1  0  ~/tomcat_user.xml
-|4,39,1,0,1657623547,"~/tomcat_user.xml"
--'  1  0  ~/tomcat_user.xml
-|4,39,1,0,1657623547,"~/tomcat_user.xml"
--'  1  0  ~/tomcat_user.xml
-|4,39,1,0,1657623547,"~/tomcat_user.xml"
--'  1  0  ~/tomcat_user.xml
-|4,39,1,0,1657623547,"~/tomcat_user.xml"
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
+-'  1  0  ~/docker_compose.yaml
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
+-'  1  0  ~/docker_compose.yaml
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
+-'  1  0  ~/docker_compose.yaml
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
+-'  1  0  ~/docker_compose.yaml
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
+-'  1  0  ~/docker_compose.yaml
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
+-'  1  0  ~/docker_compose.yaml
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
+-'  1  0  ~/docker_compose.yaml
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
+-'  1  0  ~/docker_compose.yaml
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
+-'  1  0  ~/docker_compose.yaml
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
+-'  1  0  ~/docker_compose.yaml
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
+-'  1  0  ~/docker_compose.yaml
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
+-'  1  0  ~/docker_compose.yaml
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
+-'  1  0  ~/docker_compose.yaml
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
+-'  1  0  ~/docker_compose.yaml
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
+-'  1  0  ~/docker_compose.yaml
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
+-'  1  0  ~/docker_compose.yaml
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
+-'  1  0  ~/docker_compose.yaml
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
+-'  1  0  ~/docker_compose.yaml
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
+-'  1  0  ~/docker_compose.yaml
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
+-'  1  0  ~/docker_compose.yaml
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
+-'  1  0  ~/docker_compose.yaml
+|4,39,1,0,1657638682,"~/docker_compose.yaml"
 
 # History of marks within files (newest to oldest):
+
+> ~/123
+	*	1661748824	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
+
+> ~/nwefolder/f001
+	*	1661746060	0
+	"	1	365
+	^	1	366
+	.	1	365
+	+	123	3
+	+	1	365
 
 > ~/.docker/config.json
 	*	1657642427	0

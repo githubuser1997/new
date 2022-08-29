@@ -304,3 +304,70 @@ ll
 sudo su
 cd
 ll
+cd
+ll
+git init --bare
+git login
+mkdir madhu
+cd madhu/
+git init
+git init --bare
+touch 01 02 03
+ll
+git add 01 02 03
+git status
+git reset --mixed
+git status
+git add .
+git status
+git commit -m "commit to master branches"
+git status
+git push
+git remote add origin https://github.com/testhubmadhu/new.git
+git push -u origin madhu
+cd
+git push -u origin madhu
+git push 
+git push  origin 
+git push  origin master
+git push -u origin master 
+git push -u origin 
+git push --set-upstream origin master
+git push -u origin main
+git init
+git init --bare
+git remote add origin https://github.com/testhubmadhu/new.git
+git push -u origin main
+git add --all
+git status
+git commit -m "c01"
+git status
+git log
+git remote add origin https://github.com/testhubmadhu/new.git
+git push -u origin master
+cd
+ll
+21
+";/L.KJHGFVDCXSZ
+";/LKJHGFVCDXZ
+ls -a
+ll
+mkdir nwefolder
+cd nwefolder/
+ll
+vi f001
+ll
+vi f001
+cat f001 
+ll
+add f001 
+git add f001 
+git status
+git commite -m "stage"
+git status
+git commit -m "stage"
+git log
+git branch pa
+git checkout pa
+git branch
+ll
